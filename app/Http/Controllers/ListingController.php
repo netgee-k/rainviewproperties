@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Category;
 use App\Models\Listing;
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Storage;
@@ -12,6 +13,7 @@ use Inertia\Response;
 
 class ListingController extends Controller
 {
+    use AuthorizesRequests;
     // ── Index: all listings for the logged-in seller ──────────────────────────
     public function index(): Response
     {

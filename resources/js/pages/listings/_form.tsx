@@ -110,7 +110,7 @@ export function ListingForm({
     function submit(e: FormEvent) {
         e.preventDefault();
         if (isEdit && listing?.id) {
-            post(`/listings/${listing.id}`, { forceFormData: true });
+            post(`/listings/${listing.id}?_method=PUT`, { forceFormData: true });
         } else {
             post('/listings', { forceFormData: true });
         }
