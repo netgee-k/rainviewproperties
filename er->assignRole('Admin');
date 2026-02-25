@@ -1,0 +1,28 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#7186
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mjesse kimani[39m",
+    [34memail[39m: "[32mnetg3ek@gmail.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$eVIJCq9Y2irdcaNdslUjI.pkOFYSShIO8c2MBNoB9LitdMzbzPZe.[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2026-02-24 13:22:28[39m",
+    [34mupdated_at[39m: "[32m2026-02-24 13:22:28[39m",
+    #[33mtwo_factor_secret[39m: [36mnull[39m,
+    #[33mtwo_factor_recovery_codes[39m: [36mnull[39m,
+    [34mtwo_factor_confirmed_at[39m: [36mnull[39m,
+  }
+
+[90m= [39m[34;4mApp\Models\User[39;24m {#7175
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: "[32mjesse kimani[39m",
+    [34memail[39m: "[32mnetg3ek@gmail.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$mb6q1qN8t87wb8W31c7Ly.l/U5ngfAcHFk2LiZfkDKFaiRBBbEct2[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2026-02-24 18:03:18[39m",
+    [34mupdated_at[39m: "[32m2026-02-24 18:03:41[39m",
+    #[33mtwo_factor_secret[39m: "[32meyJpdiI6IitWck1vbjB6VlY3KzR1cXowMXd6Nnc9PSIsInZhbHVlIjoiWmRWQTA2WndBQUVkWnlaR2xFd1dqdEhjNVl1NFdyUm9zS3IzUVVqajVoUT0iLCJtYWMiOiI2ODBkMjhlYWY2NWYwYTFiY2RlMDVmYzcwNDRhMThkMWU2YmZlMjY2ZTY3ZGIzZjE2ZTJiYWUxZWI5YWM0MDJjIiwidGFnIjoiIn0=[39m",
+    #[33mtwo_factor_recovery_codes[39m: "[32meyJpdiI6IldLcHNRTlB1eGxKSUZnazA5ZVdaYmc9PSIsInZhbHVlIjoiQTdyUjFCT3hGL204THBvY1JNU1pReWZraFBmWFVXbUJiazdpSDlaWmJTODJnRzJnOUYzSGxFM0pHeW16czBmWWNQNTlZT1pQM1RwQm0yQXc5VkdGOEpIRXhTRUgvKzBJcG51S2NNckxFZzBzdEp3ODBkZFlOSEpoemFkejFsaE1IU2M2YVVhenhyUjl6K1lYR0h6WnM3cnUvQ3dtRDR2L2hWbUYxazhGUGpLY0FMbGdyTGgvY1N6bkNUYmtuTzJIQ1FUMDg5cTMzOWZsNUpHS1UvY2ZFdW41Yyt5UnBUTGNYWFd2L0ZzQlEwN0FhSG1qRWhXRTlFNEl3VVJHbmE5bHNDaWRzREtJUjlBUmdDMUVGeHJocHc9PSIsIm1hYyI6IjI0OTQxNmQ5NTY3YmRiN2ExM2E3YThkMmYzNGQ0NGQ4M2E5ZGIwOTRjZDIyYmZmMWRmNmJmMDg2OTA2YjAxOWUiLCJ0YWciOiIifQ==[39m",
+    [34mtwo_factor_confirmed_at[39m: [36mnull[39m,
+  }
+
